@@ -1,6 +1,6 @@
 # Hello There! 👋
 
-## Justin Livingston - Data Analyst
+## <p align="center">Justin Livingston - Data Analyst</p>
 
 
  
