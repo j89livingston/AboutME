@@ -4,8 +4,8 @@
 
 📊 I specialize in Data Analytics and Visualizations <br>
 💻 Jupyter Notebook, Visual Studio Code, Tableau, and PowerBI are my most used tools <br>
-💪 Python and R are my primary languages <br>
-🌱 Javascript is my secondary language <br>
+💪 Python is my primary languages <br>
+🌱 R and Javascript are my secondary language <br>
 
 
 ### Languages & Tools:
