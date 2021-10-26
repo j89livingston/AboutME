@@ -1,9 +1,9 @@
-# <p align="center">Hello There!👋</p>
+# <p align="left">Hello There!👋</p>
 
 ## My name is Justin Livingson 
 
 📊 I specialize in Data Analytics and Visualizations <br>
-💻 Jupyter Notebook, Visual Studio Code, Tableau, and PowerBI are my most used tools <br>
+💻 Jupyter Notebook, Visual Studio Code, and Tableau are my most used tools <br>
 💪 Python is my primary language <br>
 🌱 R and Javascript are my secondary languages <br>
 
