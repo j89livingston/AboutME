@@ -2,10 +2,9 @@
 
 ## My name is Justin Livingson 
 
-📊 I specialize in Data Analytics and Visualizations <br>
-💻 Jupyter Notebook, Visual Studio Code, and Tableau are my most used tools <br>
+📊 I am a Data Analyst / Engineer  <br>
+💻 I spend most of my time in Jupyter Notebook, and Tableau/PowerBI  <br>
 💪 Python is my primary language <br>
-🌱 R and Javascript are my secondary languages <br>
 
 
 ### Languages & Tools:
