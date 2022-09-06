@@ -2,8 +2,8 @@
 
 ## My name is Justin Livingson 
 
-📊 I am a Data Analyst / Engineer  <br>
-💻 I spend most of my time in Jupyter Notebook, and Tableau/PowerBI  <br>
+📊 I am a Data Analyst   <br>
+💻 Specialization with the Azure platform, PowerBI and Tableau  <br>
 💪 Python is my primary language <br>
 
 
